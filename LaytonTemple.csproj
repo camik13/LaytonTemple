@@ -5,13 +5,11 @@
   </PropertyGroup>
 
   <ItemGroup>
-<<<<<<< HEAD
     <Content Remove="wwwroot\img\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="wwwroot\img\" />
   </ItemGroup>
-=======
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.22" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="3.1.22">
       <PrivateAssets>all</PrivateAssets>
@@ -22,7 +20,5 @@
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
-  </ItemGroup>
 
->>>>>>> 5f2fb323d277fd6596afd58dd14510ce0c1a740b
 </Project>
